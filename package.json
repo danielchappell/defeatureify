@@ -10,7 +10,7 @@
   "author": "Thomas Boyt <me@thomasboyt.com>",
   "license": "MIT",
   "dependencies": {
-    "esprima": "^2.0.0",
+    "esprima": "^4.0.1",
     "optimist": "~0.6.0"
   },
   "devDependencies": {
